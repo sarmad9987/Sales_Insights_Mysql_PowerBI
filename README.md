@@ -57,3 +57,9 @@ In the data modelling image below the models follows a star schema in which **sa
 **9.Show total revenue in year 2020 in Chennai**
 
 ```SELECT SUM(sales.transactions.sales_amount) FROM sales.transactions INNER JOIN date ON sales.transactions.order_date=date.date where date.year=2020 and sales.transactions.market_code="Mark001";```
+
+
+# Sales Insights Power BI Dashboard
+
+![Screenshot 2022-11-10 195935](https://user-images.githubusercontent.com/90148389/201194410-d7ba9136-cbd7-4dcb-bf35-9908ba8017e0.jpg)
+
