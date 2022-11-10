@@ -17,5 +17,6 @@ After I have explored the data and its basic features using Mysql I imported the
 
 ## Data modeling
 
-![Screenshot 2022-11-10 172407](width="60%" height="50%")(https://user-images.githubusercontent.com/90148389/201164733-a6b7375a-76b6-444b-ba07-faa9725b4157.jpg)
+![rsz_screenshot_2022-11-10_172407](https://user-images.githubusercontent.com/90148389/201166511-e281e012-9e64-46fe-a7bb-3176f2cf4acd.png)
+
 
