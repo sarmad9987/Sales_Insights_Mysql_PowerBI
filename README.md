@@ -22,11 +22,11 @@ In the data modelling image below the models follows a star schema in which **sa
 
 ## Data analysis SQL
 
-Markup : 1.**Show all customer records
+ 1. **Show all customer records
 
 SELECT * FROM customers;
 
-2.**Show total number of customers
+2. **Show total number of customers
 
 SELECT count(*) FROM customers;
 
