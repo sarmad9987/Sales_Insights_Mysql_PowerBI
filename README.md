@@ -24,7 +24,7 @@ In the data modelling image below the models follows a star schema in which **sa
 
 **1. Show all customer records**
 
-SELECT * FROM customers;
+```SELECT * FROM customers;```
 
 **2.Show total number of customers**
 
